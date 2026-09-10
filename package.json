@@ -1,0 +1,9 @@
+{
+  "name": "wingo-auto-fetcher",
+  "version": "1.0.0",
+  "description": "WinGo 30S 500 Rounds Auto Token Fetcher for Vercel",
+  "main": "api/index.js",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
